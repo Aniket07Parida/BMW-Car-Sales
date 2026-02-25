@@ -1,0 +1,7 @@
+2026-02-23 08:46:55,948 - INFO - Logging system started successfully.
+2026-02-23 08:47:07,091 - INFO - logging amazon_sales.xl.csv in a database
+2026-02-23 08:47:07,774 - INFO - logging BMW_Cars.csv in a database
+2026-02-23 08:47:08,081 - INFO - logging furniture.csv in a database
+2026-02-23 08:47:08,853 - INFO - logging Global_Shopping.csv in a database
+2026-02-23 08:47:10,003 - INFO - ingestion is completed
+2026-02-23 08:47:10,003 - INFO - Total time taken: 0.04958938360214234 minuit
